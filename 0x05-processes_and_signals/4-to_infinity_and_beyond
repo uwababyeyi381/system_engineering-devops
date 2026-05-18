@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# A script that continuously displays a phrase indefinitely with a 2-second pause
+
+while true; do
+  echo "To infinity and beyond"
+  sleep 2
+done
